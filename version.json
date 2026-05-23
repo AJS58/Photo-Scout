@@ -1,0 +1,13 @@
+{
+  "version": "30.0.0",
+  "build": "v30-update-system-refinement",
+  "released": "2026-05-23",
+  "minCache": "photo-scout-v30-update-refinement",
+  "whatsNew": [
+    "Refined update banner acknowledgement so it does not keep appearing after updating.",
+    "Added dismiss-until-next-version behaviour for beta testers.",
+    "Improved cache clear and version display handling.",
+    "Kept sat-nav integration for Apple Maps, Google Maps and Waze.",
+    "Kept UK suggested photography locations in Planner."
+  ]
+}
