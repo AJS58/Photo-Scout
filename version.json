@@ -1,0 +1,12 @@
+{
+  "version": "34.0.0",
+  "label": "Beta v34",
+  "build": "v34-curated-location-ratings",
+  "notes": [
+    "Added Halnaker Tree Tunnel / Halnaker Windmill",
+    "Added Bosham Harbour, Itchenor and Keere Street Lewes",
+    "Added National Trust Winkworth Arboretum",
+    "Added private location rating system",
+    "Updated Help / What's New to V34"
+  ]
+}
